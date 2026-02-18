@@ -38,11 +38,12 @@ python main.py
 ### 🖥 Main Interface
 ![Main Interface](docs/main_interface.png)
 
-### 🔴 Weak Password
+### 🔴 Weak Password Example
 ![Weak Password](docs/weak_password.png)
 
-### 🟠 Medium Password
+### 🟠 Medium Password Example
 ![Medium Password](docs/medium_password.png)
 
-### 🟢 Strong Password
+### 🟢 Strong Password Example
 ![Strong Password](docs/strong_password.png)
+
