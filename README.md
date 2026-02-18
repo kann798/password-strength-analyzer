@@ -27,11 +27,6 @@ A modular Python-based password strength analyzer with:
 - GUI-based interface
 - Export analysis report
 
-## ▶ How to Run
-
-```bash
-python main.py
-
 
 ## 📸 Application Screenshots
 
@@ -46,4 +41,11 @@ python main.py
 
 ### 🟢 Strong Password Example
 ![Strong Password](docs/strong_password.png)
+
+## ▶ How to Run
+
+```bash
+python main.py
+
+
 
