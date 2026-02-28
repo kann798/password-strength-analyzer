@@ -42,6 +42,12 @@ A modular Python-based password strength analyzer with:
 ### 🟢 Strong Password Example
 ![Strong Password](docs/strong_password.png)
 
+## 📘 Expert Security Report
+
+For detailed technical documentation:
+
+👉 [View Expert Report](docs/expert_report.md)
+
 ## ▶ How to Run
 
 ```bash
