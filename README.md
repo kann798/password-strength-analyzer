@@ -27,6 +27,11 @@ A modular Python-based password strength analyzer with:
 - GUI-based interface
 - Export analysis report
 
+## 📘 Expert Security Report
+
+For detailed technical documentation:
+
+👉 [View Expert Report](docs/expert_report.md)
 
 ## 📸 Application Screenshots
 
@@ -42,11 +47,7 @@ A modular Python-based password strength analyzer with:
 ### 🟢 Strong Password Example
 ![Strong Password](docs/strong_password.png)
 
-## 📘 Expert Security Report
 
-For detailed technical documentation:
-
-👉 [View Expert Report](docs/expert_report.md)
 
 ## ▶ How to Run
 
